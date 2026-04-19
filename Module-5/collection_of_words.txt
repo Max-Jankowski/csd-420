@@ -1,0 +1,10 @@
+knight rook bishop pawn queen king castle knight rook pawn
+dungeon dragon wizard knight potion sword shield dungeon dragon
+mario luigi bowser mushroom castle fireball mario luigi bowser
+joystick arcade pixel sprite joystick arcade pixel level boss
+tetris pacman ghosts tetris pacman pellet cherry level score
+dice roll initiative dungeon dice roll quest loot goblin troll
+health mana stamina potion health mana respawn checkpoint save
+controller player spawn shield controller player spawn loot boss
+king checkpoint cherry fireball ghosts goblin initiative
+ 
